@@ -1,0 +1,10 @@
+{
+	"name": "Forge/Application/Menu",
+	"description": "Forge application menus",
+	"autoload": {
+		"psr-0": {"Forge\\Application\\Menu": "src/"}
+	},
+	"require": {
+
+	}
+}
